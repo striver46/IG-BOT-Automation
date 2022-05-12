@@ -12,8 +12,7 @@ password = password_file.read()
 #Enter your username here
 bot.login(username="", password=password)
 
-user_list = ["deepikapadukone", "striver_46",
- "urvashirautela", "dishapatani", "kiaraaliaadvani", "aliaabhatt","sandra_ssong","shadezahrai"]
+user_list = ["_shhrutyy", "striver_46]
 
 
 for user in user_list:
